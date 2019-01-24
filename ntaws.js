@@ -5,7 +5,18 @@
 		
 		$.extend(self, {
 			nTAWSImgs : [
-			
+			'https://raw.githubusercontent.com/nicholasgiudice/ntaws/master/imgs/1.jpg',
+			'https://raw.githubusercontent.com/nicholasgiudice/ntaws/master/imgs/2.jpg',
+			'https://raw.githubusercontent.com/nicholasgiudice/ntaws/master/imgs/3.jpg',
+			'https://raw.githubusercontent.com/nicholasgiudice/ntaws/master/imgs/4.jpg',
+			'https://raw.githubusercontent.com/nicholasgiudice/ntaws/master/imgs/5.jpg',
+			'https://raw.githubusercontent.com/nicholasgiudice/ntaws/master/imgs/6.jpg',
+			'https://raw.githubusercontent.com/nicholasgiudice/ntaws/master/imgs/7.jpg',
+			'https://raw.githubusercontent.com/nicholasgiudice/ntaws/master/imgs/8.jpg',
+			'https://raw.githubusercontent.com/nicholasgiudice/ntaws/master/imgs/9.jpg',
+			'https://raw.githubusercontent.com/nicholasgiudice/ntaws/master/imgs/10.jpg',
+			'https://raw.githubusercontent.com/nicholasgiudice/ntaws/master/imgs/11.jpg',
+			'https://raw.githubusercontent.com/nicholasgiudice/ntaws/master/imgs/12.jpg',
 			],
 			handleImages : function (lstImgs, time)
 			{
