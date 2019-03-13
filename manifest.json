@@ -1,0 +1,12 @@
+{
+	"manifest_version": 2,
+	"name": "nTAWS",
+	"version": "1.4",
+	"description": "Troque todas as imagens do site por fotos do TAWS.",
+	"content_scripts": [
+	    {
+	      "matches": ["*://*/*"],
+	      "js": ["jquery.js", "ntaws.js"]
+	    }
+  	]
+}
